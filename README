@@ -1,2 +1,5 @@
 This is a small, incomplete chess engine I wrote to get comfortable with the
 syntax of Haskell. Hopefully, I will come back and finish this...
+
+Be warned... I have only started learning Haskell for a few days when this was
+written, so the code is by no means elegant.
